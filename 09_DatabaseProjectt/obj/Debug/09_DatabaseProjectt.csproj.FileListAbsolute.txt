@@ -1,0 +1,7 @@
+C:\Users\Alper Kaan\source\repos\CSharpEgitim\09_DatabaseProjectt\bin\Debug\09_DatabaseProjectt.exe.config
+C:\Users\Alper Kaan\source\repos\CSharpEgitim\09_DatabaseProjectt\bin\Debug\09_DatabaseProjectt.exe
+C:\Users\Alper Kaan\source\repos\CSharpEgitim\09_DatabaseProjectt\bin\Debug\09_DatabaseProjectt.pdb
+C:\Users\Alper Kaan\source\repos\CSharpEgitim\09_DatabaseProjectt\obj\Debug\09_DatabaseProjectt.csproj.AssemblyReference.cache
+C:\Users\Alper Kaan\source\repos\CSharpEgitim\09_DatabaseProjectt\obj\Debug\09_DatabaseProjectt.csproj.CoreCompileInputs.cache
+C:\Users\Alper Kaan\source\repos\CSharpEgitim\09_DatabaseProjectt\obj\Debug\09_DatabaseProjectt.exe
+C:\Users\Alper Kaan\source\repos\CSharpEgitim\09_DatabaseProjectt\obj\Debug\09_DatabaseProjectt.pdb
